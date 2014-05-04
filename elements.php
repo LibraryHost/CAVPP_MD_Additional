@@ -68,56 +68,56 @@
 		// Contributors
 		// // Camera
         array(
-            'label' => 'Contributor: Camera',
-            'name'  => 'Contributor: Camera',
+            'label' => 'Contributor - Camera',
+            'name'  => 'Contributor - Camera',
             /* 'description' => 'Camera technician. (For personal names use "LastName, FirstName MiddleName, Suffix").', */
             'data_type'   => 'Tiny Text',
         ),
 		
 		// // Cast
 		array(
-            'label' => 'Contributor: Cast',
-            'name'  => 'Contributor: Cast',
+            'label' => 'Contributor - Cast',
+            'name'  => 'Contributor - Cast',
             /* 'description' => 'Cast member. (For personal names use "LastName, FirstName MiddleName, Suffix").', */
             'data_type'   => 'Tiny Text',
         ),
 		
 		// // Editor
         array(
-            'label' => 'Contributor: Editor',
-            'name'  => 'Contributor: Editor',
+            'label' => 'Contributor - Editor',
+            'name'  => 'Contributor - Editor',
             /* 'description' => 'Editor. (For personal names use "LastName, FirstName MiddleName, Suffix").', */
             'data_type'   => 'Tiny Text',
         ),		
 		
 		// // Interviewee
         array(
-            'label' => 'Contributor: Interviewee',
-            'name'  => 'Contributor: Interviewee',
+            'label' => 'Contributor - Interviewee',
+            'name'  => 'Contributor - Interviewee',
             /* 'description' => 'The person(s) being interviewed. (For personal names use "LastName, FirstName MiddleName, Suffix").', */
             'data_type'   => 'Tiny Text',
         ),
 		
 		// // Music
         array(
-            'label' => 'Contributor: Music',
-            'name'  => 'Contributor: Music',
+            'label' => 'Contributor - Music',
+            'name'  => 'Contributor - Music',
             /* 'description' => 'Music technician. (For personal names use "LastName, FirstName MiddleName, Suffix").', */
             'data_type'   => 'Tiny Text',
         ),		
 		
 		// // Sound
         array(
-            'label' => 'Contributor: Sound',
-            'name'  => 'Contributor: Sound',
+            'label' => 'Contributor - Sound',
+            'name'  => 'Contributor - Sound',
             /* 'description' => 'Sound technician. (For personal names use "LastName, FirstName MiddleName, Suffix").', */
             'data_type'   => 'Tiny Text',
         ),		
 		
 		// // Speaker
         array(
-            'label' => 'Contributor: Speaker',
-            'name'  => 'Contributor: Speaker',
+            'label' => 'Contributor - Speaker',
+            'name'  => 'Contributor - Speaker',
             /* 'description' => 'Speaker. (For personal names use "LastName, FirstName MiddleName, Suffix").', */
             'data_type'   => 'Tiny Text',
         ),		
@@ -125,16 +125,16 @@
 		// Publishers
 		// // Publisher
 		array(
-            'label' => 'Publisher',
-            'name'  => 'Publisher',
+            'label' => 'Publisher - Publisher',
+            'name'  => 'Publisher - Publisher',
             /* 'description' => 'Publisher. (For personal names use "LastName, FirstName MiddleName, Suffix").', */
             'data_type'   => 'Tiny Text',
         ),
 		
 		// // Distributor
 		array(
-            'label' => 'Distributor',
-            'name'  => 'Distributor',
+            'label' => 'Publisher - Distributor',
+            'name'  => 'Publisher - Distributor',
             /* 'description' => 'Distributor. (For personal names use "LastName, FirstName MiddleName, Suffix").', */
             'data_type'   => 'Tiny Text',
         ),		
