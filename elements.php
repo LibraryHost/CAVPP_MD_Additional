@@ -194,18 +194,18 @@
             /* 'description' => 'Cataloger Notes.', */
         ),
 
-		// Additional Descriptive Notes for Work
+		// Additional Descriptive Notes
 		array(
-            'label' => 'Additional Descriptive Notes for Work',
-            'name'  => 'Additional Descriptive Notes for Work',
-            /* 'description' => 'Additional Descriptive Notes for Work.', */
+            'label' => 'Additional Descriptive Notes',
+            'name'  => 'Additional Descriptive Notes',
+            /* 'description' => 'Additional Descriptive Notes.', */
         ),
 
-		// Additional Technical Notes for Work
+		// Additional Technical Notes
 		array(
-            'label' => 'Additional Technical Notes for Work',
-            'name'  => 'Additional Technical Notes for Work',
-            /* 'description' => 'Additional Technical Notes for Work.', */
+            'label' => 'Additional Technical Notes',
+            'name'  => 'Additional Technical Notes',
+            /* 'description' => 'Additional Technical Notes.', */
         ),
 
 		//Collection Guide Title
